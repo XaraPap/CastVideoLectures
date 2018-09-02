@@ -8,4 +8,5 @@ This project is the tool used for the experimental conduction, performed for my 
 The application development was based on “CastVideos-android” project (https://github.com/googlecast/CastVideos-android), in which i performed all the necessary changes, so as to implement the desired functionality.
 
 The application functions with 2 ways, which differentiate in the interface of the display of additional information on the secondary screen (manual switching / synchronized with the video lecture).
+
 Contact info : papanastasiou.char@gmail.com
